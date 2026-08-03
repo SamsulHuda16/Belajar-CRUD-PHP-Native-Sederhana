@@ -14,9 +14,6 @@ Aplikasi Sarana dan Prasarana (SAPRAS) adalah aplikasi CRUD (Create, Read, Updat
 ## 🛠️ Teknologi yang Digunakan
 
 - PHP Native
-- MySQL
-- HTML
-- CSS
 - MySQLi
 - XAMPP / Laragon
 
